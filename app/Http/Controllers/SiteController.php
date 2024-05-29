@@ -12,8 +12,10 @@ class SiteController extends Controller
 {
     public function index($page='main'){
 
+        /*
         Mail::to('zigfried123@mail.ru')
             ->send(new OrderShipped());
+        */
 
 
 
